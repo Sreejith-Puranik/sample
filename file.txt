@@ -1,3 +1,4 @@
+<%-- Jsp Code --%>
 <%@ include file="connection.jsp" %>
 
 <%
